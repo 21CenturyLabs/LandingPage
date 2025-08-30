@@ -75,9 +75,7 @@ function App() {
       <header className="header">
         <nav className="nav">
           <div className="logo">
-            <div className="logo-text">
-              <span className="logo-accent">21</span>CenturyLabs
-            </div>
+            <img src="/logo.svg" alt="21CenturyLabs" className="logo-img" />
           </div>
           <div className="nav-links">
             <a href="#services">Services</a>
@@ -213,9 +211,7 @@ function App() {
         <div className="container">
           <div className="footer-content">
             <div className="footer-section">
-              <div className="footer-logo">
-                <span className="logo-accent">21</span>CenturyLabs
-              </div>
+              <img src="/logo.svg" alt="21CenturyLabs" className="footer-logo" />
               <p>Innovating the future of technology, one solution at a time.</p>
             </div>
             <div className="footer-section">
