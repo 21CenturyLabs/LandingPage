@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://21centurylabs.com/",
+  "homepage": "https://21centurylabs.github.io/LandingPage/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
